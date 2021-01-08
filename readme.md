@@ -16,7 +16,3 @@ Although the app talks to a payment API which send an email alert when their tra
 1.  Successful transaction mail - https://mailbot-298710.ew.r.appspot.com/
 
 2.  Failed transaction mail - https://failedmailbot.ew.r.appspot.com
-
-
-
-
